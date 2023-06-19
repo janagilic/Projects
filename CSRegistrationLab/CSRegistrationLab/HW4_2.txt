@@ -1,0 +1,381 @@
+**********
+Day 1:
+**********
+
+12:27 PM:  SETSUKO SOUCIE has arrived at the Registration Lab and entered the Laptop Check-out Line.
+12:28 PM:  SETSUKO SOUCIE has checked-out laptop # 920570806.
+12:31 PM:  DEVIN FORSLUND has arrived at the Registration Lab and entered the Laptop Check-out Line.
+12:32 PM:  DEVIN FORSLUND has checked-out laptop # 137820228.
+12:33 PM:  SETSUKO SOUCIE finished registering and entered the Laptop Return Line.
+12:34 PM:  SETSUKO SOUCIE successfully registered and returned laptop # 920570806.
+12:37 PM:  DEVIN FORSLUND finished registering and entered the Laptop Return Line.
+12:38 PM:  DEVIN FORSLUND successfully registered and returned laptop # 137820228.
+12:40 PM:  MAYBELL SNELL has arrived at the Registration Lab and entered the Laptop Check-out Line.
+12:41 PM:  MAYBELL SNELL has checked-out laptop # 137820228.
+12:46 PM:  MAYBELL SNELL finished registering and entered the Laptop Return Line.
+12:46 PM:  BRITTANI MORISSETTE has arrived at the Registration Lab and entered the Laptop Check-out Line.
+12:47 PM:  MAYBELL SNELL successfully registered and returned laptop # 137820228.
+12:47 PM:  BRITTANI MORISSETTE has checked-out laptop # 137820228.
+12:52 PM:  BRITTANI MORISSETTE finished registering and entered the Laptop Return Line.
+12:53 PM:  BRITTANI MORISSETTE successfully registered and returned laptop # 137820228.
+1:06 PM:  JONG COLLIVER has arrived at the Registration Lab and entered the Laptop Check-out Line.
+1:07 PM:  JONG COLLIVER has checked-out laptop # 137820228.
+1:08 PM:  EMERITA RUGGIERI has arrived at the Registration Lab and entered the Laptop Check-out Line.
+1:09 PM:  EMERITA RUGGIERI has checked-out laptop # 920570806.
+1:12 PM:  JONG COLLIVER finished registering and entered the Laptop Return Line.
+1:12 PM:  BRINDA MINCEY has arrived at the Registration Lab and entered the Laptop Check-out Line.
+1:13 PM:  JONG COLLIVER successfully registered and returned laptop # 137820228.
+1:13 PM:  BRINDA MINCEY has checked-out laptop # 137820228.
+1:14 PM:  EMERITA RUGGIERI finished registering and entered the Laptop Return Line.
+1:15 PM:  EMERITA RUGGIERI successfully registered and returned laptop # 920570806.
+1:15 PM:  MARGERT ICKES has arrived at the Registration Lab and entered the Laptop Check-out Line.
+1:16 PM:  MARGERT ICKES has checked-out laptop # 920570806.
+1:18 PM:  BRINDA MINCEY finished registering and entered the Laptop Return Line.
+1:19 PM:  BRINDA MINCEY successfully registered and returned laptop # 137820228.
+1:21 PM:  MARGERT ICKES finished registering and entered the Laptop Return Line.
+1:22 PM:  MARGERT ICKES successfully registered and returned laptop # 920570806.
+1:31 PM:  MENDY COE has arrived at the Registration Lab and entered the Laptop Check-out Line.
+1:32 PM:  MENDY COE has checked-out laptop # 920570806.
+1:37 PM:  MENDY COE finished registering and entered the Laptop Return Line.
+1:38 PM:  MENDY COE successfully registered and returned laptop # 920570806.
+1:56 PM:  DAYLE GHOLSON has arrived at the Registration Lab and entered the Laptop Check-out Line.
+1:57 PM:  DAYLE GHOLSON has checked-out laptop # 920570806.
+2:02 PM:  DAYLE GHOLSON finished registering and entered the Laptop Return Line.
+2:03 PM:  DAYLE GHOLSON successfully registered and returned laptop # 920570806.
+2:51 PM:  FREDERICKA THOREN has arrived at the Registration Lab and entered the Laptop Check-out Line.
+2:51 PM:  FERMINA BRAINARD has arrived at the Registration Lab and entered the Laptop Check-out Line.
+2:52 PM:  FREDERICKA THOREN has checked-out laptop # 920570806.
+2:53 PM:  FERMINA BRAINARD has checked-out laptop # 137820228.
+2:57 PM:  FREDERICKA THOREN finished registering and entered the Laptop Return Line.
+2:58 PM:  FREDERICKA THOREN successfully registered and returned laptop # 920570806.
+2:58 PM:  FERMINA BRAINARD finished registering and entered the Laptop Return Line.
+2:59 PM:  FERMINA BRAINARD successfully registered and returned laptop # 137820228.
+3:18 PM:  CELESTINE CEBULA has arrived at the Registration Lab and entered the Laptop Check-out Line.
+3:19 PM:  CELESTINE CEBULA has checked-out laptop # 137820228.
+3:21 PM:  DELORIS BONNELL has arrived at the Registration Lab and entered the Laptop Check-out Line.
+3:22 PM:  DELORIS BONNELL has checked-out laptop # 920570806.
+3:24 PM:  CELESTINE CEBULA finished registering and entered the Laptop Return Line.
+3:25 PM:  CELESTINE CEBULA successfully registered and returned laptop # 137820228.
+3:27 PM:  DELORIS BONNELL finished registering and entered the Laptop Return Line.
+3:28 PM:  DELORIS BONNELL successfully registered and returned laptop # 920570806.
+3:41 PM:  MARGRETT FEUER has arrived at the Registration Lab and entered the Laptop Check-out Line.
+3:42 PM:  MARGRETT FEUER has checked-out laptop # 920570806.
+3:43 PM:  IMA STERNS has arrived at the Registration Lab and entered the Laptop Check-out Line.
+3:44 PM:  IMA STERNS has checked-out laptop # 137820228.
+3:47 PM:  MARGRETT FEUER finished registering and entered the Laptop Return Line.
+3:48 PM:  MARGRETT FEUER successfully registered and returned laptop # 920570806.
+3:49 PM:  IMA STERNS finished registering and entered the Laptop Return Line.
+3:50 PM:  IMA STERNS successfully registered and returned laptop # 137820228.
+4:04 PM:  GEORGETTA GRAVER has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:05 PM:  GEORGETTA GRAVER has checked-out laptop # 137820228.
+4:10 PM:  GEORGETTA GRAVER finished registering and entered the Laptop Return Line.
+4:11 PM:  GEORGETTA GRAVER successfully registered and returned laptop # 137820228.
+4:32 PM:  WES ARLINGTON has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:33 PM:  WES ARLINGTON has checked-out laptop # 137820228.
+4:38 PM:  WES ARLINGTON finished registering and entered the Laptop Return Line.
+4:39 PM:  WES ARLINGTON successfully registered and returned laptop # 137820228.
+4:46 PM:  JULIAN HACKLEMAN has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:47 PM:  JULIAN HACKLEMAN has checked-out laptop # 137820228.
+4:49 PM:  KIRSTIE LINCOLN has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:50 PM:  KIRSTIE LINCOLN has checked-out laptop # 920570806.
+4:52 PM:  JULIAN HACKLEMAN finished registering and entered the Laptop Return Line.
+4:53 PM:  JULIAN HACKLEMAN successfully registered and returned laptop # 137820228.
+4:55 PM:  KIRSTIE LINCOLN finished registering and entered the Laptop Return Line.
+4:56 PM:  KIRSTIE LINCOLN successfully registered and returned laptop # 920570806.
+
+*** Day 1:  FCIT Daily Registration Report ***:
+
+The Registration Lab received 20 registrations as follows:
+
+ARLINGTON, WES, ID # 100025217
+	Time Registered:  4:39 PM
+	Classes:
+	| CSC-4504 | MTW-F | 6:08 PM - 12:33 PM  |
+BONNELL, DELORIS, ID # 100006499
+	Time Registered:  3:28 PM
+	Classes:
+	| CSC-1302 | -T--- | 1:17 AM - 11:59 PM  |
+BRAINARD, FERMINA, ID # 100032036
+	Time Registered:  2:59 PM
+	Classes:
+	| CSC-4454 | MTWH- | 10:23 AM - 6:22 PM  |
+	| CSC-2299 | M-W-- | 2:36 AM - 10:25 AM  |
+CEBULA, CELESTINE, ID # 100012593
+	Time Registered:  3:25 PM
+	Classes:
+	| CSC-4754 | -T--F | 12:38 AM - 3:30 PM  |
+	| CSC-2205 | M--HF | 9:07 AM - 5:26 PM   |
+COE, MENDY, ID # 100015581
+	Time Registered:  1:38 PM
+	Classes:
+	| CSC-2193 | MT-H- | 3:50 PM - 8:12 PM   |
+	| CSC-3175 | --W-F | 6:53 AM - 9:47 AM   |
+	| CSC-3915 | -TW-- | 1:37 AM - 8:15 PM   |
+COLLIVER, JONG, ID # 100018735
+	Time Registered:  1:13 PM
+	Classes:
+	| CSC-1160 | -TW-F | 7:21 AM - 4:32 PM   |
+	| CSC-4886 | M-W-- | 6:51 PM - 10:26 AM  |
+	| CSC-2706 | -T--- | 6:42 AM - 12:17 PM  |
+FEUER, MARGRETT, ID # 100016078
+	Time Registered:  3:48 PM
+	Classes:
+	| CSC-3382 | --W-- | 11:28 PM - 1:13 PM  |
+	| CSC-4873 | -T--- | 12:49 PM - 3:42 PM  |
+FORSLUND, DEVIN, ID # 100006306
+	Time Registered:  12:38 PM
+	Classes:
+	| CSC-3835 | -T-HF | 5:14 AM - 4:12 PM   |
+	| CSC-1833 | MTWHF | 10:38 AM - 3:38 PM  |
+	| CSC-1673 | MTWH- | 12:02 AM - 9:30 AM  |
+GHOLSON, DAYLE, ID # 100031491
+	Time Registered:  2:03 PM
+	Classes:
+	| CSC-2903 | M-W-F | 7:13 PM - 7:47 AM   |
+	| CSC-4886 | ---H- | 7:43 AM - 1:27 AM   |
+	| CSC-3749 | MT--- | 5:17 PM - 7:11 PM   |
+GRAVER, GEORGETTA, ID # 100006950
+	Time Registered:  4:11 PM
+	Classes:
+	| CSC-4004 | ----- | 3:46 AM - 2:28 PM   |
+HACKLEMAN, JULIAN, ID # 100002254
+	Time Registered:  4:53 PM
+	Classes:
+	| CSC-4060 | M--H- | 1:34 PM - 3:45 PM   |
+	| CSC-4226 | M-W-- | 2:44 PM - 12:40 PM  |
+	| CSC-3173 | -T-H- | 9:59 PM - 9:33 AM   |
+ICKES, MARGERT, ID # 100027248
+	Time Registered:  1:22 PM
+	Classes:
+	| CSC-4751 | --W-- | 2:42 PM - 7:12 PM   |
+LINCOLN, KIRSTIE, ID # 100020779
+	Time Registered:  4:56 PM
+	Classes:
+	| CSC-2533 | -TW-F | 8:14 PM - 1:26 PM   |
+MINCEY, BRINDA, ID # 100012016
+	Time Registered:  1:19 PM
+	Classes:
+	| CSC-2128 | --WH- | 11:18 AM - 10:37 AM |
+	| CSC-4362 | M-WHF | 10:49 PM - 9:29 AM  |
+MORISSETTE, BRITTANI, ID # 100009312
+	Time Registered:  12:53 PM
+	Classes:
+	| CSC-4052 | ---HF | 10:43 PM - 10:59 AM |
+	| CSC-3590 | --WHF | 10:08 AM - 8:50 AM  |
+RUGGIERI, EMERITA, ID # 100030391
+	Time Registered:  1:15 PM
+	Classes:
+	| CSC-1146 | --WH- | 10:40 AM - 1:58 AM  |
+	| CSC-2995 | M-W-F | 5:07 AM - 12:25 PM  |
+SNELL, MAYBELL, ID # 100029563
+	Time Registered:  12:47 PM
+	Classes:
+	| CSC-4340 | --W-- | 3:09 AM - 5:31 PM   |
+	| CSC-4801 | MTW-- | 8:43 PM - 10:46 AM  |
+	| CSC-1934 | -T-HF | 7:40 PM - 12:40 PM  |
+SOUCIE, SETSUKO, ID # 100026034
+	Time Registered:  12:34 PM
+	Classes:
+	| CSC-1011 | -TW-- | 5:42 PM - 8:54 AM   |
+STERNS, IMA, ID # 100030672
+	Time Registered:  3:50 PM
+	Classes:
+	| CSC-4702 | -TW-- | 9:39 PM - 2:28 PM   |
+THOREN, FREDERICKA, ID # 100020072
+	Time Registered:  2:58 PM
+	Classes:
+	| CSC-4107 | -TWHF | 11:02 PM - 8:06 PM  |
+
+
+**********
+Day 2:
+**********
+
+4:15 PM:  ROMONA JUDA has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:15 PM:  SHAVONDA MOLANDER has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:15 PM:  MANDA SOLIZ has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:15 PM:  KYMBERLY KORBEL has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:15 PM:  VERN CHANCER has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:16 PM:  ROMONA JUDA has checked-out laptop # 920570806.
+4:16 PM:  SOCORRO KINKEAD has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:16 PM:  FLOR VENER has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:16 PM:  EVELIA BROUWER has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:17 PM:  SHAVONDA MOLANDER has checked-out laptop # 137820228.
+4:17 PM:  CORY BOSSHART has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:17 PM:  LEZLIE KWONG has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:17 PM:  BESS VOLPE has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:17 PM:  GWENDA KODANI has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:17 PM:  LONDA STOBBE has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:17 PM:  LEATHA BETHAY has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:18 PM:  MANDA SOLIZ has checked-out laptop # 710336082.
+4:18 PM:  NGOC JEANMARD has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:19 PM:  KYMBERLY KORBEL has checked-out laptop # 361579529.
+4:19 PM:  MARLYS DAGUE has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:19 PM:  CRUZ GRAEFF has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:19 PM:  WINNIFRED MEYSEMBOURG has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:19 PM:  HOLLY KLUMP has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:19 PM:  EASTER FOY has arrived at the Registration Lab and entered the Laptop Check-out Line.
+4:20 PM:  VERN CHANCER has checked-out laptop # 236700306.
+4:21 PM:  ROMONA JUDA finished registering and entered the Laptop Return Line.
+4:22 PM:  ROMONA JUDA successfully registered and returned laptop # 920570806.
+4:22 PM:  SHAVONDA MOLANDER finished registering and entered the Laptop Return Line.
+4:23 PM:  SHAVONDA MOLANDER successfully registered and returned laptop # 137820228.
+4:23 PM:  SOCORRO KINKEAD has checked-out laptop # 137820228.
+4:23 PM:  MANDA SOLIZ finished registering and entered the Laptop Return Line.
+4:24 PM:  MANDA SOLIZ successfully registered and returned laptop # 710336082.
+4:24 PM:  FLOR VENER has checked-out laptop # 710336082.
+4:24 PM:  KYMBERLY KORBEL finished registering and entered the Laptop Return Line.
+4:25 PM:  KYMBERLY KORBEL successfully registered and returned laptop # 361579529.
+4:25 PM:  EVELIA BROUWER has checked-out laptop # 361579529.
+4:25 PM:  VERN CHANCER finished registering and entered the Laptop Return Line.
+4:26 PM:  VERN CHANCER successfully registered and returned laptop # 236700306.
+4:26 PM:  CORY BOSSHART has checked-out laptop # 236700306.
+4:27 PM:  LEZLIE KWONG has checked-out laptop # 920570806.
+4:28 PM:  SOCORRO KINKEAD finished registering and entered the Laptop Return Line.
+4:29 PM:  SOCORRO KINKEAD successfully registered and returned laptop # 137820228.
+4:29 PM:  FLOR VENER finished registering and entered the Laptop Return Line.
+4:30 PM:  FLOR VENER successfully registered and returned laptop # 710336082.
+4:30 PM:  BESS VOLPE has checked-out laptop # 710336082.
+4:30 PM:  EVELIA BROUWER finished registering and entered the Laptop Return Line.
+4:31 PM:  EVELIA BROUWER successfully registered and returned laptop # 361579529.
+4:31 PM:  GWENDA KODANI has checked-out laptop # 361579529.
+4:31 PM:  CORY BOSSHART finished registering and entered the Laptop Return Line.
+4:32 PM:  CORY BOSSHART successfully registered and returned laptop # 236700306.
+4:32 PM:  LONDA STOBBE has checked-out laptop # 236700306.
+4:32 PM:  LEZLIE KWONG finished registering and entered the Laptop Return Line.
+4:33 PM:  LEZLIE KWONG successfully registered and returned laptop # 920570806.
+4:33 PM:  LEATHA BETHAY has checked-out laptop # 920570806.
+4:34 PM:  NGOC JEANMARD has checked-out laptop # 137820228.
+4:35 PM:  BESS VOLPE finished registering and entered the Laptop Return Line.
+4:36 PM:  BESS VOLPE successfully registered and returned laptop # 710336082.
+4:36 PM:  GWENDA KODANI finished registering and entered the Laptop Return Line.
+4:37 PM:  GWENDA KODANI successfully registered and returned laptop # 361579529.
+4:37 PM:  MARLYS DAGUE has checked-out laptop # 361579529.
+4:37 PM:  LONDA STOBBE finished registering and entered the Laptop Return Line.
+4:38 PM:  LONDA STOBBE successfully registered and returned laptop # 236700306.
+4:38 PM:  CRUZ GRAEFF has checked-out laptop # 236700306.
+4:38 PM:  LEATHA BETHAY finished registering and entered the Laptop Return Line.
+4:39 PM:  LEATHA BETHAY successfully registered and returned laptop # 920570806.
+4:39 PM:  WINNIFRED MEYSEMBOURG has checked-out laptop # 920570806.
+4:39 PM:  NGOC JEANMARD finished registering and entered the Laptop Return Line.
+4:40 PM:  NGOC JEANMARD successfully registered and returned laptop # 137820228.
+4:40 PM:  HOLLY KLUMP has checked-out laptop # 137820228.
+4:41 PM:  EASTER FOY has checked-out laptop # 710336082.
+4:42 PM:  MARLYS DAGUE finished registering and entered the Laptop Return Line.
+4:43 PM:  MARLYS DAGUE successfully registered and returned laptop # 361579529.
+4:43 PM:  CRUZ GRAEFF finished registering and entered the Laptop Return Line.
+4:44 PM:  CRUZ GRAEFF successfully registered and returned laptop # 236700306.
+4:44 PM:  WINNIFRED MEYSEMBOURG finished registering and entered the Laptop Return Line.
+4:45 PM:  WINNIFRED MEYSEMBOURG successfully registered and returned laptop # 920570806.
+4:45 PM:  HOLLY KLUMP finished registering and entered the Laptop Return Line.
+4:46 PM:  HOLLY KLUMP successfully registered and returned laptop # 137820228.
+4:46 PM:  EASTER FOY finished registering and entered the Laptop Return Line.
+4:47 PM:  EASTER FOY successfully registered and returned laptop # 710336082.
+
+*** Day 2:  FCIT Daily Registration Report ***:
+
+The Registration Lab received 20 registrations as follows:
+
+BETHAY, LEATHA, ID # 100010352
+	Time Registered:  4:39 PM
+	Classes:
+	| CSC-2770 | -TWH- | 4:54 PM - 3:42 AM   |
+	| CSC-4288 | ---HF | 8:21 AM - 4:34 AM   |
+BOSSHART, CORY, ID # 867482942
+	Time Registered:  4:32 PM
+	Classes:
+	| CSC-4713 | -T--F | 10:56 PM - 2:23 AM  |
+BROUWER, EVELIA, ID # 867477949
+	Time Registered:  4:31 PM
+	Classes:
+	| CSC-1257 | -T--F | 4:04 AM - 9:33 PM   |
+	| CSC-1109 | MT-H- | 11:59 AM - 11:22 AM |
+CHANCER, VERN, ID # 867490497
+	Time Registered:  4:26 PM
+	Classes:
+	| CSC-4943 | M--H- | 3:43 AM - 9:29 PM   |
+	| CSC-3723 | M-W-F | 10:15 PM - 7:46 PM  |
+DAGUE, MARLYS, ID # 309991105
+	Time Registered:  4:43 PM
+	Classes:
+	| CSC-2635 | M-WHF | 3:58 AM - 4:52 AM   |
+	| CSC-1323 | M-W-F | 3:42 AM - 3:20 PM   |
+FOY, EASTER, ID # 483736550
+	Time Registered:  4:47 PM
+	Classes:
+	| CSC-2538 | ---H- | 11:57 PM - 8:30 PM  |
+	| CSC-1041 | -T--F | 2:18 AM - 5:09 AM   |
+	| CSC-1910 | MT--F | 1:16 PM - 11:04 PM  |
+GRAEFF, CRUZ, ID # 100003406
+	Time Registered:  4:44 PM
+	Classes:
+	| CSC-2449 | --W-- | 4:42 PM - 6:40 PM   |
+JEANMARD, NGOC, ID # 100017598
+	Time Registered:  4:40 PM
+	Classes:
+	| CSC-3008 | ----- | 12:06 PM - 8:29 PM  |
+	| CSC-1615 | MT--- | 5:48 AM - 3:21 AM   |
+JUDA, ROMONA, ID # 100016989
+	Time Registered:  4:22 PM
+	Classes:
+	| CSC-4178 | ----F | 11:07 PM - 4:54 PM  |
+KINKEAD, SOCORRO, ID # 100012897
+	Time Registered:  4:29 PM
+	Classes:
+	| CSC-2743 | -T--- | 3:54 AM - 5:08 PM   |
+	| CSC-4595 | ----- | 3:12 PM - 5:25 AM   |
+KLUMP, HOLLY, ID # 100025590
+	Time Registered:  4:46 PM
+	Classes:
+	| CSC-1093 | MT-H- | 7:25 PM - 11:42 AM  |
+	| CSC-3013 | ----F | 5:57 AM - 1:03 PM   |
+	| CSC-2021 | M-W-- | 12:28 AM - 1:05 AM  |
+KODANI, GWENDA, ID # 867484119
+	Time Registered:  4:37 PM
+	Classes:
+	| CSC-3554 | M-W-- | 4:17 AM - 9:46 AM   |
+	| CSC-1490 | -TWHF | 6:54 AM - 1:15 AM   |
+	| CSC-3082 | -TWH- | 6:04 AM - 3:21 AM   |
+KORBEL, KYMBERLY, ID # 867473061
+	Time Registered:  4:25 PM
+	Classes:
+	| CSC-4463 | M--H- | 12:30 AM - 4:48 AM  |
+	| CSC-1602 | -TWHF | 4:17 PM - 2:33 PM   |
+	| CSC-3687 | MT-HF | 12:10 PM - 2:30 AM  |
+KWONG, LEZLIE, ID # 100031006
+	Time Registered:  4:33 PM
+	Classes:
+	| CSC-4138 | M--H- | 11:36 PM - 7:30 AM  |
+	| CSC-3687 | M-WHF | 5:37 AM - 2:35 AM   |
+	| CSC-2861 | --WH- | 7:23 AM - 4:36 AM   |
+MEYSEMBOURG, WINNIFRED, ID # 483742679
+	Time Registered:  4:45 PM
+	Classes:
+	| CSC-1330 | M--H- | 12:37 PM - 6:44 AM  |
+	| CSC-2332 | M-WHF | 10:52 AM - 11:10 AM |
+MOLANDER, SHAVONDA, ID # 867488399
+	Time Registered:  4:23 PM
+	Classes:
+	| CSC-2905 | --W-F | 5:13 AM - 1:57 PM   |
+	| CSC-3158 | ----- | 6:12 AM - 10:22 PM  |
+SOLIZ, MANDA, ID # 100007076
+	Time Registered:  4:24 PM
+	Classes:
+	| CSC-1178 | M---- | 12:07 AM - 6:26 AM  |
+STOBBE, LONDA, ID # 100025741
+	Time Registered:  4:38 PM
+	Classes:
+	| CSC-1251 | ---H- | 3:51 PM - 11:47 PM  |
+	| CSC-2037 | M-WHF | 5:27 PM - 6:52 AM   |
+VENER, FLOR, ID # 100024071
+	Time Registered:  4:30 PM
+	Classes:
+	| CSC-4579 | MT--- | 1:51 PM - 12:12 PM  |
+	| CSC-4214 | MTWH- | 2:03 AM - 7:03 PM   |
+VOLPE, BESS, ID # 100008764
+	Time Registered:  4:36 PM
+	Classes:
+	| CSC-3710 | MTWH- | 6:17 AM - 7:45 PM   |
+	| CSC-1117 | ----F | 4:58 PM - 7:06 AM   |
+
+
