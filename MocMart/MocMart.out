@@ -1,0 +1,171 @@
+INVENTORY:
+	Contains no items.
+
+RESTOCK:
+	There are no items to restock.
+
+FINDITEM:
+	Cannot perform command; there are no items in the product database.
+
+ADDITEM:
+	Item 4011, USA_FLAG, with a cost of $10.99 and initial stock of 1, has been added to the product database.
+
+ADDITEM:
+	Item 3182, CALCULATOR, with a cost of $0.45 and initial stock of 10, has been added to the product database.
+
+FINDITEM:
+	Performing Binary Search...(Indices viewed: 0 )
+	Item #3182 (CALCULATOR)
+	Price            :  $0.45
+	Current Quantity :  10
+	Units Sold       :  0
+	Total Amount     :  $0.00
+
+CUSTOMER:
+	Customer CAPTAIN AMERICA came and made some purchases.
+
+CUSTOMER:
+	Customer KEVIN FLYNN came and made some purchases.
+
+CUSTOMER:
+	Customer MARISA KIRISAME came and made no purchases.
+
+ADDITEM:
+	Item 8000, WITCH_BROOM, with a cost of $18.00 and initial stock of 1, has been added to the product database.
+
+FINDITEM:
+	Performing Binary Search...(Indices viewed: 1 0 )
+	Item #3182 (CALCULATOR)
+	Price            :  $0.45
+	Current Quantity :  0
+	Units Sold       :  10
+	Total Amount     :  $4.50
+
+INVENTORY:
+	Contains the following items:
+	| Item   3182 | CALCULATOR           | $   0.45 |    0 unit(s) |
+	| Item   4011 | USA_FLAG             | $  10.99 |    0 unit(s) |
+	| Item   8000 | WITCH_BROOM          | $  18.00 |    1 unit(s) |
+
+RESTOCK:
+	Item 3182, CALCULATOR, restocked to a quantity of 5.
+	Item 4011, USA_FLAG, restocked to a quantity of 7.
+
+PRINTSALESSUMMARY:
+Moc Mart Sales Report:
+	Sale #1, CAPTAIN AMERICA purchased 6 item(s):
+		| Item   4011 | USA_FLAG             | $  10.99 (x   1) |
+		| Item   3182 | CALCULATOR           | $   0.45 (x   5) |
+		Total: $13.24
+	Sale #2, KEVIN FLYNN purchased 5 item(s):
+		| Item   3182 | CALCULATOR           | $   0.45 (x   5) |
+		Total: $2.25
+	Grand Total: $15.49
+
+INVENTORY:
+	Contains the following items:
+	| Item   3182 | CALCULATOR           | $   0.45 |    5 unit(s) |
+	| Item   4011 | USA_FLAG             | $  10.99 |    7 unit(s) |
+	| Item   8000 | WITCH_BROOM          | $  18.00 |    1 unit(s) |
+
+ADDITEM:
+	Item 9999, FROZEN_FROG, with a cost of $9.99 and initial stock of 1, has been added to the product database.
+
+CUSTOMER:
+	Customer EX CIRNO came and made some purchases.
+
+CUSTOMER:
+	Customer MARISA KIRISAME came and made some purchases.
+
+INVENTORY:
+	Contains the following items:
+	| Item   3182 | CALCULATOR           | $   0.45 |    1 unit(s) |
+	| Item   4011 | USA_FLAG             | $  10.99 |    7 unit(s) |
+	| Item   8000 | WITCH_BROOM          | $  18.00 |    0 unit(s) |
+	| Item   9999 | FROZEN_FROG          | $   9.99 |    0 unit(s) |
+
+FINDITEM:
+	Performing Binary Search...(Indices viewed: 1 2 3 )
+	Item #9999 (FROZEN_FROG)
+	Price            :  $9.99
+	Current Quantity :  0
+	Units Sold       :  1
+	Total Amount     :  $9.99
+
+RESTOCK:
+	Item 8000, WITCH_BROOM, restocked to a quantity of 1.
+	Item 9999, FROZEN_FROG, restocked to a quantity of 9.
+
+INVENTORY:
+	Contains the following items:
+	| Item   3182 | CALCULATOR           | $   0.45 |    1 unit(s) |
+	| Item   4011 | USA_FLAG             | $  10.99 |    7 unit(s) |
+	| Item   8000 | WITCH_BROOM          | $  18.00 |    1 unit(s) |
+	| Item   9999 | FROZEN_FROG          | $   9.99 |    9 unit(s) |
+
+PRINTSALESSUMMARY:
+Moc Mart Sales Report:
+	Sale #1, CAPTAIN AMERICA purchased 6 item(s):
+		| Item   4011 | USA_FLAG             | $  10.99 (x   1) |
+		| Item   3182 | CALCULATOR           | $   0.45 (x   5) |
+		Total: $13.24
+	Sale #2, KEVIN FLYNN purchased 5 item(s):
+		| Item   3182 | CALCULATOR           | $   0.45 (x   5) |
+		Total: $2.25
+	Sale #3, EX CIRNO purchased 5 item(s):
+		| Item   3182 | CALCULATOR           | $   0.45 (x   4) |
+		| Item   9999 | FROZEN_FROG          | $   9.99 (x   1) |
+		Total: $11.79
+	Sale #4, MARISA KIRISAME purchased 1 item(s):
+		| Item   8000 | WITCH_BROOM          | $  18.00 (x   1) |
+		Total: $18.00
+	Grand Total: $45.28
+
+CUSTOMER:
+	Customer BOB SMITH came and made some purchases.
+
+CUSTOMER:
+	Customer BILL GATES came and made some purchases.
+
+FINDITEM:
+	Performing Binary Search...(Indices viewed: 1 2 )
+	Item #7777 was not found in the product database.
+
+INVENTORY:
+	Contains the following items:
+	| Item   3182 | CALCULATOR           | $   0.45 |    0 unit(s) |
+	| Item   4011 | USA_FLAG             | $  10.99 |    7 unit(s) |
+	| Item   8000 | WITCH_BROOM          | $  18.00 |    0 unit(s) |
+	| Item   9999 | FROZEN_FROG          | $   9.99 |    0 unit(s) |
+
+RESTOCK:
+	Item 3182, CALCULATOR, restocked to a quantity of 5.
+	Item 8000, WITCH_BROOM, restocked to a quantity of 1.
+	Item 9999, FROZEN_FROG, restocked to a quantity of 9.
+
+PRINTSALESSUMMARY:
+Moc Mart Sales Report:
+	Sale #1, CAPTAIN AMERICA purchased 6 item(s):
+		| Item   4011 | USA_FLAG             | $  10.99 (x   1) |
+		| Item   3182 | CALCULATOR           | $   0.45 (x   5) |
+		Total: $13.24
+	Sale #2, KEVIN FLYNN purchased 5 item(s):
+		| Item   3182 | CALCULATOR           | $   0.45 (x   5) |
+		Total: $2.25
+	Sale #3, EX CIRNO purchased 5 item(s):
+		| Item   3182 | CALCULATOR           | $   0.45 (x   4) |
+		| Item   9999 | FROZEN_FROG          | $   9.99 (x   1) |
+		Total: $11.79
+	Sale #4, MARISA KIRISAME purchased 1 item(s):
+		| Item   8000 | WITCH_BROOM          | $  18.00 (x   1) |
+		Total: $18.00
+	Sale #5, BOB SMITH purchased 10 item(s):
+		| Item   3182 | CALCULATOR           | $   0.45 (x   1) |
+		| Item   9999 | FROZEN_FROG          | $   9.99 (x   9) |
+		Total: $90.36
+	Sale #6, BILL GATES purchased 1 item(s):
+		| Item   8000 | WITCH_BROOM          | $  18.00 (x   1) |
+		Total: $18.00
+	Grand Total: $153.64
+
+Goodbye.
