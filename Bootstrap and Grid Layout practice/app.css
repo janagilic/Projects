@@ -1,0 +1,72 @@
+
+nav{
+	background-color: #DEC0DE;
+}
+nav a.navbar-brand{
+	color:#EA1C2C;
+	font-family: Nunito;
+}
+nav a.navbar-brand:hover{
+	color:#EA1C2C;
+}
+nav .navbar-nav{
+	font-size: 1.5rem;
+	font-weight: 100;
+	font-family: Nunito;
+}
+nav a.nav-link:hover{
+	color: #EA1C2C;
+}
+body{
+	background-color: #F5D9D5;
+	font-family: Nunito;
+}
+section{
+	margin-top: 100px;
+}
+section div.row div h1{
+	color: white;
+	font-size: 4rem;
+	font-weight: 100;
+}
+section div h1 span{
+	color: red;
+}
+
+section div h2{
+	color:#EA1C2C;
+	font-size: 2.5rem;
+	font-weight: 100;
+}
+section div p{
+	font-size: 1.125rem;
+	font-family: Nunito;
+	font-weight: 100;
+	color: #F498B8;
+	line-height: 2;
+}
+
+div.container div h1{
+	color: white;
+	font-size: 4rem;
+	font-weight: 100;
+	font-family: Nunito;
+	padding-top: 70px;
+}
+.container h2{
+	color: black;
+	font-size: 1.125rem;
+}
+
+/* This is how to set up a media query for width-based CSS rules */
+@media (max-width: 1200px) {
+	/* Example Rule, not a real one, so erase it when adding yours */
+	section div div h1{
+		font-size: 3rem;
+	}
+	div div h1{
+		font-size: 3rem;
+	}
+	
+
+}
